@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    color: green;
+}
+p{
+color: coral;
+}
+button{
+    background-color: cadetblue;
+    color: brown;
+    margin-bottom: auto;
+  
+}
