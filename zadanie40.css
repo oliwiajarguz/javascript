@@ -1,0 +1,21 @@
+body {
+
+    background-color: beige;
+}
+
+#container,
+form {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+ button{
+    border: 5px solid skyblue;
+    background-color: skyblue;
+
+}
+#fname, #lname, #phonenr{
+    border: 5px solid skyblue;
+}
